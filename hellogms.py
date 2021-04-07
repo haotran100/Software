@@ -1,1 +1,1 @@
-print("Hello GMS, we did it - hi5!")
+print("Hello GMS, I am in Github. Can you see me?")
